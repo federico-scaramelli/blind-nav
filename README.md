@@ -3,8 +3,7 @@ Blind Nav is a blind-game useful to train navigation skills in visually impaired
 
 Final project for the Sound in Interaction course at the University of Milan.
 
-More details can be found on the project report 
-[here](https://federicoscaramelli.itch.io/blind-nav).
+More details can be found on the project report.
 
 [Play Blind Nav!](https://federicoscaramelli.itch.io/blind-nav)
 
